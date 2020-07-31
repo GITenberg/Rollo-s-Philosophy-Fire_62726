@@ -1,0 +1,37 @@
+_repo: Rollo-s-Philosophy-Fire_62726
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Abbott, Jacob
+    aliases:
+    - Erodore
+    - Marianne
+    birthdate: 1803
+    deathdate: 1879
+    gutenberg_agent_id: '2136'
+    url: http://www.gutenberg.org/2009/agents/2136
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Abbott
+description: ''
+gutenberg_issued: '2020-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62726'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Rollo Series
+subjects:
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Gunpowder -- Juvenile fiction'
+- !lcsh 'Combustion -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Fire -- Juvenile fiction'
+- !lcsh 'Education -- Juvenile fiction'
+- !lcsh 'Physical sciences -- Juvenile fiction'
+- !lcsh 'Thought and thinking -- Juvenile fiction'
+- GITenberg
+title: Rollo's Philosophy [Fire]
+url: http://www.gutenberg.org/ebooks/62726
